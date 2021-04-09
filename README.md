@@ -9,3 +9,9 @@ a protein subcellular location prediction program
 ```
 $ make setup
 ```
+
+## Project Structure
+
+- `environment.yml`: configurações do ambiente do conda
+- `requirements.txt`: bibliotecas a serem instaladas no Python
+- `Makefile`: centralizar comandos, criar umas regrinhas (rules)
