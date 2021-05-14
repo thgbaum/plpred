@@ -18,3 +18,4 @@ $ make setup
 - `data/`: diretório de dados. Dados brutos guardados na pasta `data/raw/`, os dados processados na pasta `data/processed`e os modelos treinados na pasta `data/models`.
 - `plpred`: arquivo onde está o código, correspondente ao arquivo `preprocessing.py`
 - `plpred/models`:disponibiliza modelos preditivos baseados em *Random Forest*, *Gradient Boosting*, SVM e redes neurais (MLP).
+- `tests/`: conjunto de testes unitários para os componentes do Plpred.
