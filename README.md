@@ -4,6 +4,8 @@ By Frederico Schmitt Kremer
 
 a protein subcellular location prediction program
 
+Available at: [https://tb-plpred.herokuapp.com/](https://tb-plpred.herokuapp.com/)
+
 ## Setup
 
 ```
